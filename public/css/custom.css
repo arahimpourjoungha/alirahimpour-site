@@ -1,0 +1,36 @@
+.profile-photo {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1.2rem;
+}
+/* Hide homepage hero title (Ananke) */
+.home .page-header,
+.home header h1,
+.home .bg-black h1 {
+  display: none;
+}
+/* Ananke: hide the big homepage hero title (keep nav title) */
+.home header h1,
+.home header .f-subheadline {
+  display: none;
+}
+/* Ananke: hide the big homepage hero title (keep the nav/site title) */
+.home header h1,
+.home header .f-subheadline {
+  display: none;
+.home .page-header { display: none; }
+
+}
+/* Hide ONLY the big homepage hero title area (Ananke variations) */
+.home header .bg-black,
+.home header .bg-near-black,
+.home header .bg-dark-gray,
+.home .page-header {
+  display: none !important;
+}
+/* Hide duplicate homepage title */
+.home .page-title {
+  display: none;
+}
