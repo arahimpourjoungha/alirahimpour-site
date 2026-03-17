@@ -8,8 +8,7 @@ title: "Experience"
 
 
 
-## Walnot Inc 
-[website](https://walnot.health/) 
+## Walnot Inc [website](https://walnot.health/) 
 **Co-Founder**  
  NIH-funded STTR (R41)  
  Wearable fNIRS platform for precision psychiatry  
