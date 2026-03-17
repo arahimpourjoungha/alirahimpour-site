@@ -4,7 +4,7 @@ title: "Experience"
 
 ## Empathic Neural Network     
 **Chief Neuroscientist & Co-Founder** 
- [website](https://empathicneuralnetwork.com/) 
+ [website](https://empathicneuralnetwork.com/)
  Applied AI + neurophysiology
 
 
