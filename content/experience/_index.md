@@ -2,15 +2,17 @@
 title: "Experience"
 ---
 
-## Empathic Neural Network [*](https://empathicneuralnetwork.com/)    
-**Chief Neuroscientist & Co-Founder**  
+## Empathic Neural Network     
+**Chief Neuroscientist & Co-Founder** 
+ [website](https://empathicneuralnetwork.com/) 
  Applied AI + neurophysiology
 
 
 
 
-## Walnot Inc [*](https://walnot.health/) 
-**Co-Founder**  
+## Walnot Inc 
+**Co-Founder**
+ [website](https://walnot.health/)   
  NIH-funded STTR (R41)  
  Wearable fNIRS platform for precision psychiatry  
 
