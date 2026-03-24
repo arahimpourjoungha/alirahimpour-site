@@ -4,7 +4,7 @@ title: "Contact"
 
 ## Get in Touch
 
-**Email:** [rahimpur@stanford.edu](mailto:rahimpur@stanford.edu)<br>
+**Email:** [rahimpur [at] stanford [dot] edu](mailto:rahimpur@stanford.edu)<br>
 **LinkedIn:** [ali-rahimpour-jounghani](https://www.linkedin.com/in/ali-rahimpour-jounghani/)<br>
 **Google Scholar:** [View publications](https://scholar.google.com/citations?user=Q15T_-kAAAAJ&hl=en)
 
