@@ -4,14 +4,19 @@ title: "Contact"
 
 ## Get in Touch
 
-**Email:** rahimpur@stanford.edu
+**Email:** [rahimpur@stanford.edu](mailto:rahimpur@stanford.edu)<br>
+**LinkedIn:** [ali-rahimpour-jounghani](https://www.linkedin.com/in/ali-rahimpour-jounghani/)<br>
+**Google Scholar:** [View publications](https://scholar.google.com/citations?user=Q15T_-kAAAAJ&hl=en)
 
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ali-rahimpour-jounghani/)
+Stanford University · Palo Alto, CA
 
 ---
 
-### For Research Collaborations
-Interested in collaborative research opportunities in optical neuroimaging or precision mental health.
+### Research Collaborations
+I'm open to collaborations in wearable neuroimaging, fNIRS methodology, precision mental health, and computational neuroscience. Feel free to reach out if you're working on related problems.
 
-### For Industry Partnerships  
-Open to discussions about applications of wearable technology.
+### Industry & Startup Partnerships
+Interested in translating neurotechnology into real-world clinical or consumer applications? I'm happy to discuss partnerships, advisory roles, or pilot studies.
+
+### Speaking & Media
+Available for talks, panels, or interviews on neurotechnology, brain-computer interfaces, and mental health innovation.
