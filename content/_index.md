@@ -7,9 +7,9 @@ header_title: ""
 
 # Ali Rahimpour Jounghani
 
-**Chief Neuroscientist & Co-Founder, Empathic Neural Network** | **Co-Founder, Walnot Inc** | **Research Scientist, Stanford University**
+**Co-Founder, Walnot Inc** | **Research Scientist, Stanford University**
 
-I work at the intersection of engineering, data science, and neuroscience, developing wearable neurotechnology and computational methods to study cognition, emotion, and decision-making in real-world settings. My work focuses on scalable approaches to precision mental health, with applications in ADHD and other neurodiverse and clinical populations.
+I work at the intersection of engineering, AI, and neuroscience, developing wearable neurotechnology and computational methods to study cognition, emotion, and decision-making in real-world settings. My work focuses on scalable approaches to precision mental health, with applications in ADHD and other neurodiverse and clinical populations.
 
 Neurotechnology · Precision Mental Health · Wearable Brain Imaging
 

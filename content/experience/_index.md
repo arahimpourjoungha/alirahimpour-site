@@ -2,11 +2,6 @@
 title: "Experience"
 ---
 
-## Empathic Neural Network
-**Chief Neuroscientist & Co-Founder** · 2025–Present<br>
-[website](https://empathicneuralnetwork.com/)<br>
-Applied AI + neurophysiology
-
 ## Walnot Inc
 **Co-Founder** · 2024–Present<br>
 [website](https://walnot.health/)<br>
