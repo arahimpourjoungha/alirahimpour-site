@@ -3,7 +3,7 @@ title: "Experience"
 ---
 
 ## Walnot Inc
-**Co-Founder** · 2024–Present<br>
+**Co-Founder & Chief Scientific Officer (CSO)** · 2024–Present<br>
 [website](https://walnot.health/)<br>
 NIH-funded STTR (R41)<br>
 Wearable fNIRS platform for precision psychiatry
