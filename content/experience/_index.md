@@ -3,9 +3,9 @@ title: "Experience"
 ---
 
 ## Walnot Inc
-**Co-Founder & Chief Scientific Officer (CSO)** · 2024–Present<br>
+**Co-Founder & Principal Investigator** · 2025–Present<br>
 [website](https://walnot.health/)<br>
-NIH-funded STTR (R41)<br>
+NIH STTR (R41) Principal Investigator<br>
 Wearable fNIRS platform for precision psychiatry
 
 ## Stanford University

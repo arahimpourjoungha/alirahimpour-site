@@ -7,7 +7,7 @@ header_title: ""
 
 # Ali Rahimpour Jounghani
 
-**Co-Founder & CSO, Walnot Inc** | **Research Scientist, Stanford University**
+**Co-Founder & PI, Walnot Inc** | **Research Scientist, Stanford University**
 
 I work at the intersection of engineering, AI, and neuroscience, developing wearable neurotechnology and computational methods to study cognition, emotion, and decision-making in real-world settings. My work focuses on scalable approaches to precision mental health, with applications in ADHD and other neurodiverse and clinical populations.
 
@@ -17,6 +17,7 @@ Neurotechnology · Precision Mental Health · Wearable Brain Imaging
 
 ## Recent Highlights
 
+- **2025** — Principal Investigator, NIH STTR (R41) grant · Walnot Inc
 - **2025** — Finalist presenter, [Stanford Founders Demo Day 2025](https://stanforddaily.com/2025/05/30/stanford-founders-hosts-90-startups-in-second-ever-demo-day/?referrer=luma) · Featured in Stanford Daily
 - **2025** — Featured in [Stanford Report News](https://news.stanford.edu/stories/2025/03/digital-tool-adhd-feedback-brain-research) for neurofeedback and brain research in ADHD
 - **2025** — Research article highlighted in [Stanford Science Highlights](https://cheme.stanford.edu/revolutionizing-adhd-treatment-through-neuromonitoring-guided-working-memory-interventions)  
