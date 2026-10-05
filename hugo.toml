@@ -9,39 +9,39 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   name = "Ali Rahimpour Jounghani"
-  description = "Ali Rahimpour Jounghani, PhD — Research Scientist at Stanford University School of Medicine and Co-Founder of Walnot Inc. Wearable neuroimaging, computational neuroscience, and precision mental health."
+  description = "Ali Rahimpour Jounghani, PhD — Research Scientist at Stanford University School of Medicine and Co-Founder & Chief Scientific Officer of Walnot Inc. Wearable neuroimaging, computational neuroscience, and precision mental health."
   role = "Research Scientist"
   affiliation = "Stanford University School of Medicine"
   department = "Psychiatry & Behavioral Sciences"
-  secondary = "Co-Founder & PI, Walnot Inc"
+  secondary = "Co-Founder & Chief Scientific Officer, Walnot Inc"
   location = "Palo Alto, California"
   email = "rahimpur@stanford.edu"
   scholar = "https://scholar.google.com/citations?user=Q15T_-kAAAAJ&hl=en"
   linkedin = "https://www.linkedin.com/in/ali-rahimpour-jounghani/"
-  cv = "/files/Ali_Rahimpour_Jounghani_CV.pdf"
-  photo = "/img/profile.png"
+  cv = "files/Ali_Rahimpour_Jounghani_CV.pdf"
+  photo = "img/profile.png"
 
 [[menu.main]]
   name = "About"
-  url = "/"
+  pageRef = "/"
   weight = 1
 [[menu.main]]
   name = "Research"
-  url = "/research/"
+  pageRef = "/research"
   weight = 2
 [[menu.main]]
   name = "Publications"
-  url = "/publications/"
+  pageRef = "/publications"
   weight = 3
 [[menu.main]]
   name = "Talks"
-  url = "/talks/"
+  pageRef = "/talks"
   weight = 4
 [[menu.main]]
   name = "CV"
-  url = "/cv/"
+  pageRef = "/cv"
   weight = 5
 [[menu.main]]
   name = "Contact"
-  url = "/contact/"
+  pageRef = "/contact"
   weight = 6

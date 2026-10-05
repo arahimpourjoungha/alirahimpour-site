@@ -43,7 +43,7 @@
     <section class="section">
       <div class="section-head">
         <h2 class="section-title">Selected publications</h2>
-        <a class="section-more" href="{{ "/publications/" | relURL }}">All publications →</a>
+        <a class="section-more" href="{{ "publications/" | relURL }}">All publications →</a>
       </div>
       <ol class="pubs">
         {{ range where site.Data.publications "selected" true }}{{ partial "pub.html" . }}{{ end }}

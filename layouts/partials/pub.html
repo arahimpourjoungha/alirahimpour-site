@@ -1,5 +1,5 @@
 {{- $p := . }}
-<li class="pub" data-type="{{ $p.type }}"{{ if $p.first_author }} data-first="1"{{ end }}>
+<li class="pub" data-type="{{ $p.type }}"{{ if or $p.first_author $p.co_first }} data-first="1"{{ end }}>
   <div class="pub-title"><a href="https://doi.org/{{ $p.doi }}">{{ $p.title }}</a></div>
   <div class="pub-authors">
     {{- range $i, $a := $p.authors }}{{ if $i }}, {{ end }}{{ if hasPrefix $a "A. Rahimpour" }}<span class="me">{{ $a }}</span>{{ else }}{{ $a }}{{ end }}{{ end }}
@@ -9,6 +9,7 @@
   <div class="pub-meta">
     <a class="tag tag-link" href="https://doi.org/{{ $p.doi }}">DOI</a>
     {{- if $p.first_author }}<span class="tag tag-accent">First author</span>{{ end }}
+    {{- if $p.co_first }}<span class="tag tag-accent">Co-first author</span>{{ end }}
     {{- if eq $p.type "preprint" }}<span class="tag">Preprint</span>{{ end }}
     {{- if eq $p.type "conference" }}<span class="tag">Conference paper</span>{{ end }}
   </div>

@@ -1,8 +1,21 @@
-# Conference presentations and invited talks. Most recent first.
+# Invited talks and conference presentations (from CV, Sept 2026). Most recent first.
+- year: 2026
+  authors: "Rahimpour Jounghani, A.†, Faghihzadeh, S., Mei, M.†, Moreno Carbonell, L., Izuzkiza, C., & Hosseini, H."
+  title: "At-home naturalistic neuroimaging: A pilot study of wearable fNIRS during daily life activities"
+  venue: "Wu Tsai Neurosciences Institute Retreat, Stanford University, CA · † Presenters"
+- year: 2026
+  authors: "Faghihzadeh, S.†, Rahimpour Jounghani, A.†, Moreno Carbonell, L., & Hosseini, S. M. H."
+  title: "At-home deep phenotyping with a wearable fNIRS platform: A pilot study in a single ADHD case using dense sampling"
+  venue: "Wu Tsai Neurosciences Institute Retreat, Stanford University, CA · † Equal contribution"
+- year: 2026
+  authors: "Moreno Carbonell, L., Izuzkiza, C., Rahimpour Jounghani, A., Faghihzadeh, S., Mei, M., & Hosseini, S. M. H."
+  title: "Precision mental health platform for ecological studies"
+  venue: "Wu Tsai Neurosciences Institute Retreat, Stanford University, CA"
 - year: 2025
   authors: "Soltanlou, M., Fonseca, K., Bezuidenhout, H. S., Nemati, P., Rahimpour Jounghani, A., Borj Khani, H., & Henning, E."
-  title: "Neuroscience of mathematics learning in children—Application of fNIRS in South Africa"
-  venue: "The UK fNIRS Conference, United Kingdom"
+  title: "Neuroscience of mathematics learning in children: Application of fNIRS in South Africa"
+  venue: "UK fNIRS Conference, Cambridge, UK"
+  award: "Outstanding Oral Presentation Award"
 - year: 2025
   authors: "Rahimpour Jounghani, A., Moreno Carbonell, L., Kumar, A., Bowden, A. K., & Hosseini, H."
   title: "Advancing individualized functional neuroimaging with a wearable fNIRS platform: A proof-of-concept study on dense-sampling and reliability"
@@ -19,7 +32,7 @@
   invited: true
   authors: "Rahimpour, A."
   title: "Wearable brain interfaces for health"
-  venue: "eWEAR Seminar, Stanford University"
+  venue: "eWEAR Seminar Series, Stanford University"
   link: "https://wearable.su.domains/ewear-seminar-july/"
 - year: 2023
   authors: "Rahimpour, A., Kumar, A., Crawford, S., Bowden, A., & Hosseini, H."
@@ -40,7 +53,7 @@
 - year: 2022
   authors: "O’Connell, S. R., Rahimpour, A., Papadopoulos, J., Nowlen, F., Bortfeld, H., & Goldsworthy, R."
   title: "Tracking motor and auditory cortex activation during synchronous tapping in cochlear implant users and normal-hearing listeners: An fNIRS validation study"
-  venue: "45th Annual Conference of the Association for Research in Otolaryngology (ARO), San Jose, CA"
+  venue: "45th Annual MidWinter Meeting of the Association for Research in Otolaryngology (ARO), San Jose, CA"
 - year: 2021
   authors: "Rahimpour, A., Pollonini, L., Comstock, D., Balasubramaniam, R., & Bortfeld, H."
   title: "The effect of study design context on timing behavior and cortical brain activation: fNIRS alternating vs. block design study"
@@ -53,6 +66,10 @@
   authors: "Rahimpour, A., Comstock, D., Pollonini, L., Balasubramaniam, R., & Bortfeld, H."
   title: "Tracking differential activation of primary and supplementary motor cortex across timing tasks: An fNIRS validation study"
   venue: "4th Annual Boston University Neurophotonics Symposium, Boston, MA"
+- year: 2021
+  authors: "Rahimpour, A., Comstock, D., Pollonini, L., Balasubramaniam, R., & Bortfeld, H."
+  title: "The effect of study design context on timing behavior and cortical brain activation: fNIRS alternating vs. block design study"
+  venue: "4th Annual Boston University Neurophotonics Symposium, Boston, MA"
 - year: 2019
   authors: "Rahimpour, A., Pollonini, L., Comstock, D., Balasubramaniam, R., & Bortfeld, H."
   title: "Tracking differential activation of primary and supplementary motor cortex across timing tasks: An fNIRS validation study"
@@ -60,8 +77,8 @@
 - year: 2019
   authors: "Ebrahimzadeh, E., Shams, M., Rahimpour Jounghani, A., et al."
   title: "Epilepsy presurgical evaluation of patients with complex source localization by a novel component-based EEG-fMRI approach"
-  venue: "Iranian Journal of Radiology, 16 (Special Issue)"
+  venue: "Iranian Journal of Radiology, 16 (Special Issue) · Published abstract"
 - year: 2014
   authors: "Borjkhani, M., Khazenifard, A., & Rahimpour, A."
-  title: "Probabilistic study of different synchronization measures: Application to electroencephalography"
+  title: "Probabilistic study of different synchronization measures: Application to electroencephalographic signals"
   venue: "Brain and Clinical Neuroscience Congress (BCNC), Tehran, Iran"

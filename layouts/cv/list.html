@@ -41,19 +41,35 @@
     </ul>
   </section>
 
+  {{ range slice (dict "t" "Grants &amp; fellowships" "k" "grants") (dict "t" "Honors &amp; awards" "k" "awards") }}
   <section class="cv-section">
-    <h2 class="section-title">Grants, honors &amp; awards</h2>
+    <h2 class="section-title">{{ .t | safeHTML }}</h2>
     <ul class="cv-list compact">
-      {{ range $cv.awards }}
+      {{ range index $cv .k }}
       <li><span class="cv-when">{{ .when }}</span><div class="cv-what">{{ .text | markdownify }}</div></li>
       {{ end }}
     </ul>
   </section>
+  {{ end }}
 
   <section class="cv-section">
     <h2 class="section-title">Publications &amp; presentations</h2>
-    <p>{{ len site.Data.publications }} peer-reviewed publications and preprints and {{ len site.Data.talks }}+ conference presentations. See <a href="{{ "/publications/" | relURL }}">Publications</a> and <a href="{{ "/talks/" | relURL }}">Talks</a>.</p>
+    <p>{{ len site.Data.publications }} published papers and preprints, {{ len site.Data.under_review }} manuscripts under review, and {{ len site.Data.talks }} talks and conference presentations. See <a href="{{ "publications/" | relURL }}">Publications</a> and <a href="{{ "talks/" | relURL }}">Talks</a>.</p>
   </section>
+
+  {{ range slice (dict "t" "Collaborative research projects" "k" "collaborations") (dict "t" "Software" "k" "software") }}
+  <section class="cv-section">
+    <h2 class="section-title">{{ .t }}</h2>
+    <ul class="cv-list">
+      {{ range index $cv .k }}
+      <li>
+        <span class="cv-when">{{ .when }}</span>
+        <div class="cv-what"><div class="cv-role">{{ .title }}</div><div class="cv-org">{{ .org }}</div></div>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
 
   <section class="cv-section">
     <h2 class="section-title">Professional service</h2>
@@ -69,6 +85,16 @@
     <h2 class="section-title">Teaching &amp; mentoring</h2>
     <ul class="plain">{{ range $cv.teaching }}<li>{{ . | markdownify }}</li>{{ end }}</ul>
     <p>{{ $cv.mentoring }}</p>
+  </section>
+
+  <section class="cv-section">
+    <h2 class="section-title">Translational &amp; entrepreneurship</h2>
+    <ul class="plain">{{ range $cv.translational }}<li>{{ . | markdownify }}</li>{{ end }}</ul>
+  </section>
+
+  <section class="cv-section">
+    <h2 class="section-title">Media &amp; science communication</h2>
+    <ul class="plain">{{ range $cv.media }}<li>{{ with .link }}<a href="{{ . }}">{{ end }}{{ .text }}{{ if .link }}</a>{{ end }}</li>{{ end }}</ul>
   </section>
 
   {{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}

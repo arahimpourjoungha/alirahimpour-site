@@ -1,5 +1,23 @@
 [
   {
+    "title": "fNIRS for Everyone: Toward Accessible, Inclusive, and Scalable Neuroimaging",
+    "authors": [
+      "A. K. Bowden",
+      "A. Kumar",
+      "S. Crawford",
+      "A. Rahimpour Jounghani",
+      "L. M. Carbonell",
+      "S. M. H. Hosseini"
+    ],
+    "venue": "Optics and the Brain, Optica Biophotonics Congress",
+    "year": 2026,
+    "details": "BS5A.1",
+    "doi": "10.1364/brain.2026.bs5a.1",
+    "type": "conference",
+    "first_author": false,
+    "selected": false
+  },
+  {
     "title": "Naturalistic fNIRS assessment reveals decline in executive function and altered prefrontal activation following social media use in college students",
     "authors": [
       "A. Aitken",
@@ -17,7 +35,8 @@
     "doi": "10.1038/s41598-025-20844-7",
     "type": "journal",
     "first_author": false,
-    "selected": true
+    "selected": true,
+    "co_first": true
   },
   {
     "title": "Neural correlates of fraction magnitude processing in high and low achieving primary school children in South Africa",
@@ -189,7 +208,8 @@
     "doi": "10.1016/j.heliyon.2024.e32534",
     "type": "journal",
     "first_author": false,
-    "selected": false
+    "selected": false,
+    "co_first": true
   },
   {
     "title": "Investigating the role of auditory cues in modulating motor timing: insights from EEG and deep learning",

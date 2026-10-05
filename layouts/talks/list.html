@@ -15,7 +15,7 @@
           <div class="pub-title">{{ with .link }}<a href="{{ . }}">{{ end }}{{ .title }}{{ if .link }}</a>{{ end }}</div>
           <div class="pub-authors">{{ replaceRE `(Rahimpour( Jounghani)?, A\.)` `<span class="me">$1</span>` .authors | safeHTML }}</div>
           <div class="pub-venue"><em>{{ .venue }}</em></div>
-          {{ if .invited }}<div class="pub-meta"><span class="tag tag-accent">Invited talk</span></div>{{ end }}
+          {{ if or .invited .award }}<div class="pub-meta">{{ if .invited }}<span class="tag tag-accent">Invited talk</span>{{ end }}{{ with .award }}<span class="tag tag-accent">{{ . }}</span>{{ end }}</div>{{ end }}
         </li>
         {{ end }}
       </ol>

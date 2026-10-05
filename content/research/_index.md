@@ -40,6 +40,24 @@ Self-supervised representation learning for fNIRS time series, enabling brain-st
 
 <section class="project">
 
+## Naturalistic, at-home neuroimaging
+
+Measuring the brain where people actually live. In a pilot of self-initiated, ambulatory prefrontal fNIRS recordings during everyday activities paired with ecological momentary assessment (98 sessions over 24 days), we examine task- and mood-dependent prefrontal functional connectivity, alongside dense-sampling deep phenotyping in ADHD.
+
+<p class="project-meta"><strong>Tools</strong> Precision Wearable, an open MATLAB toolbox (in development) for dense-sampling analysis of wearable fNIRS and EEG</p>
+
+</section>
+
+<section class="project">
+
+## Clinical translation: Alzheimer's disease and presurgical mapping
+
+As lead analyst with the Stanford Alzheimer's Disease Research Center, I study wearable fNIRS during NIH Toolbox cognitive tasks in an amyloid-characterized cohort, linked to amyloid and tau PET, plasma biomarkers, and cognition. A separate pilot compares whole-head and wearable fNIRS for covert language mapping, toward a bedside alternative to Wada testing and fMRI for presurgical language lateralization.
+
+</section>
+
+<section class="project">
+
 ## Timing, action, and the motor system
 
 How context shapes the neural control of timed action. Using fNIRS, EEG, and deep learning, this work examines how auditory cues, task structure, and study design modulate activity in primary and supplementary motor cortex during rhythmic behavior, including in cochlear-implant users.
@@ -60,7 +78,7 @@ How neurodiverse individuals process risk, loss aversion, and feedback frequency
 
 ## Clinical neuroimaging in vulnerable populations
 
-Objective neurophysiological markers of stress and emotion regulation in clinically complex and underserved groups, including PTSD, adverse childhood experiences (ACE), and Prader–Willi syndrome. The emphasis is on ethical, scalable neuroimaging that can inform intervention and monitoring.
+Objective neurophysiological markers of stress and emotion regulation in clinically complex and underserved groups, including PTSD, adverse childhood experiences (ACE), and Prader–Willi syndrome. Current work links prefrontal responses during acute stress to childhood-adversity load and heart-rate variability. The emphasis is on ethical, scalable neuroimaging that can inform intervention and monitoring.
 
 </section>
 
@@ -68,9 +86,9 @@ Objective neurophysiological markers of stress and emotion regulation in clinica
 
 ## Methods and open science in fNIRS
 
-Contributing to community efforts that improve rigor and reproducibility in fNIRS research, including the multi-lab FRESH reproducibility initiative and the consensus-based fNIRS Glossary Project.
+Contributing to community efforts that improve rigor and reproducibility in fNIRS research, including the multi-lab FRESH reproducibility initiative the consensus-based fNIRS Glossary Project, and a multiverse (specification-curve) replication of fNIRS findings on non-adjacent dependency learning.
 
-<p class="project-meta"><strong>Key papers</strong> <a href="https://doi.org/10.1038/s42003-025-08412-1"><em>Communications Biology</em> 2025</a> · <a href="https://doi.org/10.1117/1.NPh.12.2.027801"><em>Neurophotonics</em> 2025</a></p>
+<p class="project-meta"><strong>Key papers</strong> <a href="https://doi.org/10.1038/s42003-025-08412-1"><em>Communications Biology</em> 2025</a> · <a href="https://doi.org/10.1117/1.NPh.12.2.027801"><em>Neurophotonics</em> 2025</a> · <a href="https://doi.org/10.1364/brain.2026.bs5a.1"><em>Optics and the Brain</em> 2026</a></p>
 
 </section>
 
