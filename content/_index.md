@@ -6,7 +6,7 @@ interests:
   - ADHD and neurodevelopmental conditions
   - Deep phenotyping
   - Multimodal analysis
-  - Machine learning & foundation models for neuroimaging
+  - Foundation models for neuroimaging
   - "Clinical populations: PTSD, Prader–Willi syndrome, Alzheimer's disease"
 ---
 
