@@ -1,0 +1,11 @@
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <span>© {{ now.Year }} {{ site.Params.name }}</span>
+    <span class="footer-links">
+      <a href="mailto:{{ site.Params.email }}">Email</a>
+      <a href="{{ site.Params.scholar }}">Google Scholar</a>
+      <a href="{{ site.Params.linkedin }}">LinkedIn</a>
+      <a href="{{ site.Params.cv | relURL }}">CV (PDF)</a>
+    </span>
+  </div>
+</footer>

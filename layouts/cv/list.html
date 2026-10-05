@@ -1,0 +1,76 @@
+{{ define "main" }}
+{{ $cv := site.Data.cv }}
+<article class="page">
+  <header class="page-header page-header-row">
+    <div>
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.lead }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
+    </div>
+    <a class="button" href="{{ site.Params.cv | relURL }}">{{ partial "icon.html" "file" }} Download full CV (PDF)</a>
+  </header>
+
+  <section class="cv-section">
+    <h2 class="section-title">Appointments</h2>
+    <ul class="cv-list">
+      {{ range $cv.positions }}
+      <li>
+        <span class="cv-when">{{ .when }}</span>
+        <div class="cv-what">
+          <div class="cv-role">{{ .role }}</div>
+          <div class="cv-org">{{ with .link }}<a href="{{ . }}">{{ end }}{{ .org }}{{ if .link }}</a>{{ end }}</div>
+          {{ with .note }}<p class="cv-note">{{ . | markdownify }}</p>{{ end }}
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+
+  <section class="cv-section">
+    <h2 class="section-title">Education</h2>
+    <ul class="cv-list">
+      {{ range $cv.education }}
+      <li>
+        <span class="cv-when">{{ .when }}</span>
+        <div class="cv-what">
+          <div class="cv-role">{{ .degree }}</div>
+          <div class="cv-org">{{ .org }}</div>
+          {{ with .note }}<p class="cv-note">{{ . | markdownify }}</p>{{ end }}
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+
+  <section class="cv-section">
+    <h2 class="section-title">Grants, honors &amp; awards</h2>
+    <ul class="cv-list compact">
+      {{ range $cv.awards }}
+      <li><span class="cv-when">{{ .when }}</span><div class="cv-what">{{ .text | markdownify }}</div></li>
+      {{ end }}
+    </ul>
+  </section>
+
+  <section class="cv-section">
+    <h2 class="section-title">Publications &amp; presentations</h2>
+    <p>{{ len site.Data.publications }} peer-reviewed publications and preprints and {{ len site.Data.talks }}+ conference presentations. See <a href="{{ "/publications/" | relURL }}">Publications</a> and <a href="{{ "/talks/" | relURL }}">Talks</a>.</p>
+  </section>
+
+  <section class="cv-section">
+    <h2 class="section-title">Professional service</h2>
+    <h3 class="cv-sub">Editorial</h3>
+    <ul class="plain">{{ range $cv.service.editorial }}<li>{{ . | markdownify }}</li>{{ end }}</ul>
+    <h3 class="cv-sub">Ad hoc reviewer</h3>
+    <p>{{ $cv.service.reviewer }}</p>
+    <h3 class="cv-sub">Other</h3>
+    <ul class="plain">{{ range $cv.service.other }}<li>{{ . | markdownify }}</li>{{ end }}</ul>
+  </section>
+
+  <section class="cv-section">
+    <h2 class="section-title">Teaching &amp; mentoring</h2>
+    <ul class="plain">{{ range $cv.teaching }}<li>{{ . | markdownify }}</li>{{ end }}</ul>
+    <p>{{ $cv.mentoring }}</p>
+  </section>
+
+  {{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+</article>
+{{ end }}

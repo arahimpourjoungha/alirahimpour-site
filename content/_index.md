@@ -1,34 +1,16 @@
 ---
-title: ""
-header_title: ""
+title: "About"
+interests:
+  - Wearable functional neuroimaging (fNIRS)
+  - Precision mental health & neuropsychiatry
+  - ADHD and neurodevelopmental conditions
+  - Neuromonitoring-guided intervention & neurofeedback
+  - Machine learning for neural time series
+  - Cognition and decision-making in real-world settings
 ---
 
-![Ali Rahimpour Jounghani](/img/profile.png)
+I am a Research Scientist in the Department of Psychiatry & Behavioral Sciences at Stanford University School of Medicine, working in the [C-BRAIN Lab](https://cbrain.stanford.edu/), and Co-Founder of [Walnot Inc](https://walnot.health/), where I lead an NIH-funded STTR project as Principal Investigator.
 
-# Ali Rahimpour Jounghani
+My research sits at the intersection of engineering, artificial intelligence, and neuroscience. I develop **wearable neurotechnology** and **computational methods** to measure brain function outside the laboratory: at home, at school, and in the clinic. The goal is to move mental health care from symptom-based categories toward objective, individualized measures of brain function. I am especially interested in **ADHD** and other neurodiverse and clinical populations.
 
-**Co-Founder & PI, Walnot Inc** | **Research Scientist, Stanford University**
-
-I work at the intersection of engineering, AI, and neuroscience, developing wearable neurotechnology and computational methods to study cognition, emotion, and decision-making in real-world settings. My work focuses on scalable approaches to precision mental health, with applications in ADHD and other neurodiverse and clinical populations.
-
-Neurotechnology · Precision Mental Health · Wearable Brain Imaging
-
----
-
-## Recent Highlights
-
-- **2025** — Principal Investigator, NIH STTR (R41) grant · Walnot Inc
-- **2025** — Finalist presenter, [Stanford Founders Demo Day 2025](https://stanforddaily.com/2025/05/30/stanford-founders-hosts-90-startups-in-second-ever-demo-day/?referrer=luma) · Featured in Stanford Daily
-- **2025** — Featured in [Stanford Report News](https://news.stanford.edu/stories/2025/03/digital-tool-adhd-feedback-brain-research) for neurofeedback and brain research in ADHD
-- **2025** — Research article highlighted in [Stanford Science Highlights](https://cheme.stanford.edu/revolutionizing-adhd-treatment-through-neuromonitoring-guided-working-memory-interventions)  
-- **2025** — Published in *npj Digital Medicine*: [Neurophysiological markers in precision mental health](https://communities.springernature.com/posts/mapping-the-mind-at-home-a-wearable-fnirs-platform-for-the-future-of-precision-mental-health)
-- **2025** — Published in *Nature Communications Biology*: Executive function in naturalistic settings
-- **2024** — [Finalist](https://wearable-technologies.com/e-agenda/wt-conference-us-2024---agenda), Wearable Technologies Innovation World Cup 2024
-- **2024** — Finalist, Stanford University High Impact Technology (HIT) Fund
-- **2024** — NIH T32 Postdoctoral Fellowship, Stanford School of Medicine
-
----
-
-[Publications](/publications) · [Projects](/projects) · [Experience](/experience) · [CV](/cv) · [Contact](/contact)
-
-[LinkedIn](https://www.linkedin.com/in/ali-rahimpour-jounghani/) · [Google Scholar](https://scholar.google.com/citations?user=Q15T_-kAAAAJ&hl=en) · [Email](mailto:rahimpur@stanford.edu)
+I received my PhD in Psychological Sciences from the University of California, Merced, where I studied the neural basis of action-based timing with fNIRS and EEG. I also hold an MS in Quantitative Methods from UC Merced and an MS in Biomedical Engineering from the University of Tehran.
