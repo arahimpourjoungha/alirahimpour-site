@@ -12,5 +12,3 @@ interests:
 I am a Research Scientist in the Department of Psychiatry & Behavioral Sciences at Stanford University School of Medicine, working in the [C-BRAIN Lab](https://cbrain.stanford.edu/), and Co-Founder of [Walnot Inc](https://walnot.health/), where I lead an NIH-funded STTR project as Principal Investigator.
 
 My research sits at the intersection of engineering, artificial intelligence, and neuroscience. I develop **wearable neurotechnology** and **computational methods** to measure brain function outside the laboratory: at home, at school, and in the clinic. The goal is to move mental health care from symptom-based categories toward objective, individualized measures of brain function. I am especially interested in **ADHD** and other neurodiverse and clinical populations.
-
-I received my PhD in Psychological Sciences from the University of California, Merced, where I studied the neural basis of action-based timing with fNIRS and EEG. I also hold an MS in Quantitative Methods from UC Merced and an MS in Biomedical Engineering from the University of Tehran.
