@@ -85,6 +85,10 @@
     <h2 class="section-title">Teaching &amp; mentoring</h2>
     <ul class="plain">{{ range $cv.teaching }}<li>{{ . | markdownify }}</li>{{ end }}</ul>
     <p>{{ $cv.mentoring }}</p>
+    {{ with $cv.mentee_pubs }}
+    <h3 class="cv-sub">Mentored student publications</h3>
+    <ul class="plain">{{ range . }}<li>{{ . | markdownify }}</li>{{ end }}</ul>
+    {{ end }}
   </section>
 
   <section class="cv-section">
