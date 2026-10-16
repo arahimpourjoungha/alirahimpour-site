@@ -22,7 +22,7 @@
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
   {{- if .IsHome }}
   <script type="application/ld+json">
-  {{ dict "@context" "https://schema.org" "@type" "Person" "name" site.Params.name "jobTitle" site.Params.role "affiliation" (dict "@type" "Organization" "name" site.Params.affiliation) "email" (printf "mailto:%s" site.Params.email) "image" (site.Params.photo | absURL) "sameAs" (slice site.Params.scholar site.Params.linkedin) | jsonify | safeJS }}
+  {{ dict "@context" "https://schema.org" "@type" "Person" "name" site.Params.name "jobTitle" site.Params.role "affiliation" (dict "@type" "Organization" "name" site.Params.affiliation) "email" (printf "mailto:%s" site.Params.email) "image" (site.Params.photo | absURL) "sameAs" (slice site.Params.stanford_profile site.Params.scholar site.Params.linkedin) | jsonify | safeJS }}
   </script>
   {{- end }}
 </head>

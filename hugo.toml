@@ -16,6 +16,7 @@ disableKinds = ["taxonomy", "term"]
   secondary = "Co-Founder & Chief Scientific Officer, Walnot Inc"
   location = "Palo Alto, California"
   email = "rahimpur@stanford.edu"
+  stanford_profile = "https://profiles.stanford.edu/ali-rahimpour-jounghani"
   scholar = "https://scholar.google.com/citations?user=Q15T_-kAAAAJ&hl=en"
   linkedin = "https://www.linkedin.com/in/ali-rahimpour-jounghani/"
   cv = "files/Ali_Rahimpour_Jounghani_CV.pdf"
