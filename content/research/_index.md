@@ -19,6 +19,17 @@ A low-cost, wireless functional near-infrared spectroscopy (fNIRS) platform for 
 
 <section class="project">
 
+## wnirs: open-source toolbox for wearable fNIRS
+
+wnirs is my open-source Python toolbox for dense-sampling wearable fNIRS, covering the full path from raw headband light to an int8 model that runs on-device. It implements the methods of my *npj Digital Medicine* 2025 paper and is released under the MIT license with about 270 tests.
+
+<p class="project-meta"><strong>Highlights</strong> Device I/O and quality control with 16 channel-quality metrics and TDDR motion repair · Precision-imaging statistics: AR-IRLS GLM in NumPy and JAX (8.6× faster, identical results), reliability, fingerprinting, ICC · A 3,143-parameter causal CNN with a 3.3 KB int8 streaming kernel and ONNX export · On 200 wearable recordings, it detects bad channels better than a DSP baseline (AUC 0.89 vs 0.84), even after int8 compression</p>
+<p class="project-meta"><strong>Links</strong> <a href="https://github.com/arahimpourjoungha/wnirs">Code (GitHub)</a> · <a href="https://doi.org/10.1038/s41746-025-01690-3"><em>npj Digital Medicine</em> 2025</a></p>
+
+</section>
+
+<section class="project">
+
 ## Neuromonitoring-guided intervention in ADHD
 
 Characterizing neurobiological heterogeneity in ADHD with multimodal wearable neuroimaging and behavior, and using neural markers to personalize intervention. This work combines task-based and naturalistic fNIRS paradigms with neurofeedback-informed working-memory training. The aim is objective markers of executive function and treatment response, supporting precision psychiatry beyond symptom-based diagnosis.

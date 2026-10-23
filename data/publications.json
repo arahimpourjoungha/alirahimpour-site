@@ -108,6 +108,7 @@
     "year": 2025,
     "details": "8(1), 271",
     "doi": "10.1038/s41746-025-01690-3",
+    "code": "https://github.com/arahimpourjoungha/wnirs",
     "type": "journal",
     "first_author": true,
     "selected": true

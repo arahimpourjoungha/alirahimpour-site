@@ -94,6 +94,9 @@ collaborations:
     org: "Department of Otolaryngology, Keck School of Medicine, USC"
 
 software:
+  - when: "2026"
+    title: "wnirs (Python) — Lead Developer"
+    org: "Open-source toolbox for dense-sampling wearable fNIRS, from raw headband light to an int8 model that runs on-device: quality control, signal processing, precision-imaging statistics, and on-device machine learning."
   - when: "in development"
     title: "Precision Wearable (MATLAB) — Lead Developer"
     org: "Open toolbox for dense-sampling analysis of wearable fNIRS and EEG: graphical end-to-end pipeline, quality metrics, motion correction, AR-IRLS first-level models, and intensive-longitudinal methods."

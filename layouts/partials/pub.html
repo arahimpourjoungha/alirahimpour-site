@@ -8,6 +8,7 @@
   <div class="pub-venue"><em>{{ $p.venue }}</em>{{ with $p.details }}, {{ . }}{{ end }} ({{ $p.year }})</div>
   <div class="pub-meta">
     <a class="tag tag-link" href="https://doi.org/{{ $p.doi }}">DOI</a>
+    {{- with $p.code }}<a class="tag tag-link" href="{{ . }}">Code</a>{{ end }}
     {{- if $p.first_author }}<span class="tag tag-accent">First author</span>{{ end }}
     {{- if $p.co_first }}<span class="tag tag-accent">Co-first author</span>{{ end }}
     {{- if eq $p.type "preprint" }}<span class="tag">Preprint</span>{{ end }}
