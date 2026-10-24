@@ -91,6 +91,8 @@ How neurodiverse individuals process risk, loss aversion, and feedback frequency
 
 Objective neurophysiological markers of stress and emotion regulation in clinically complex and underserved groups, including PTSD, adverse childhood experiences (ACE), and Prader–Willi syndrome. Current work links prefrontal responses during acute stress to childhood-adversity load and heart-rate variability. The emphasis is on ethical, scalable neuroimaging that can inform intervention and monitoring.
 
+<p class="project-meta"><strong>Current project</strong> SYSTEMAATICS: Childhood adversity and acute stress (2026 – present) · computational analysis lead and lead of the brain measurement team</p>
+
 </section>
 
 <section class="project">
