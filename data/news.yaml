@@ -1,4 +1,7 @@
 # Most recent first. `link` is optional.
+- date: "Oct 2026"
+  text: "Released open-source code on GitHub: the **wnirs** toolbox for wearable fNIRS, analysis code for our *iScience* 2024 paper, and an fNIRS language-mapping task battery."
+  link: "/research/#software-and-code"
 - date: "Aug 2026"
   text: "Wrote “What happens to the brain after 15 minutes of scrolling?” for **Behind the Paper**, Springer Nature Research Communities, on our *Scientific Reports* study of social media use and executive function."
   link: "https://communities.springernature.com/posts/what-happens-to-the-brain-after-15-minutes-of-scrolling"

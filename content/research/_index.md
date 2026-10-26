@@ -105,4 +105,16 @@ Contributing to community efforts that improve rigor and reproducibility in fNIR
 
 </section>
 
+<section class="project">
+
+## Software and code
+
+Open-source code from my research, available on GitHub.
+
+<p class="project-meta"><strong>wnirs</strong> Python toolbox for dense-sampling wearable fNIRS, from raw headband light to an int8 model that runs on-device · <a href="https://github.com/arahimpourjoungha/wnirs">GitHub</a></p>
+<p class="project-meta"><strong>ADHD-NFB-iScience2024</strong> Archived analysis code for the Supplementary Section 4 analyses of our <em>iScience</em> 2024 paper · <a href="https://github.com/arahimpourjoungha/ADHD-NFB-iScience2024">GitHub</a> · <a href="https://doi.org/10.1016/j.isci.2024.111087">Paper</a></p>
+<p class="project-meta"><strong>LanguageMapping-fNIRS-Tasks</strong> Task battery of four covert language tasks in a block design, for language lateralization with fNIRS · <a href="https://github.com/arahimpourjoungha/LanguageMapping-fNIRS-Tasks">GitHub</a></p>
+
+</section>
+
 </div>
